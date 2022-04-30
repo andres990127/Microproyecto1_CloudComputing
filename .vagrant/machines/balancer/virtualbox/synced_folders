@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/shared_folder":{"guestpath":"/home/vagrant/shared_folder","hostpath":"C:/Users/andre/OneDrive/Escritorio/MicroP 1/shared_folder","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/andre/OneDrive/Escritorio/MicroP 1","disabled":false,"__vagrantfile":true}}}

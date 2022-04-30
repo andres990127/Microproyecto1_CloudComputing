@@ -1,0 +1,37 @@
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <script src="script.js"></script>
+    <!-- <link rel="stylesheet" type="text/css" href="styles.css"> -->
+    <style>
+      body {
+        background-color: white;
+      }
+      h1,
+      h2 {
+        text-align: center;
+	  font-family: Arial;
+      }
+      img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+      }
+    </style>
+  </head>
+  <body>
+    <br> 
+    <br> 
+    <h1>Sorry there is no server available to handle your request!</h1>
+    <img
+      src="https://media.istockphoto.com/vectors/service-unavailable-error-page-a-hand-drawn-vector-layout-template-of-vector-id1254331546?k=20&m=1254331546&s=170667a&w=0&h=haneWmm-zQjH3lpS31K3rq2X_b4AriAWtp1I6NIfYWI="
+      alt="503 error"
+    />
+  </body>
+</html>
